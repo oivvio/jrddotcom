@@ -1,0 +1,213 @@
+<html>
+<head>
+<title>Joanna Rubin Dranger | illustrations, photos, childrenbooks, barnböcker, författare, stamps, frimärken, bookcovers, bokomslag, interview, intervju, miss remarkable & her career, miss scardycat & love, joanna rubin dranger, joanna, rubin, dranger, illustratör</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="author" content="Carolina R">
+<!-- All copyright till hemsida och undersidor tillkommer www.comitnet.se-->
+<meta name="keywords" content="joanna rubin dranger, joanna, rubin, dranger, illustratör, illustrations, photos, childrenbooks, barnböcker, författare, stamps, frimärken, bookcovers, bokomslag, interview, intervju, miss remarkable & her career, miss scardycat & love">
+<meta name="bransch" content="undefined">
+<meta name="ort" content="">
+<meta name="riktnr" content="">
+<meta name="description" content="">
+<meta name="datum" content="..">
+<meta name="projektnr" content="">
+<meta name="rating" content="general">
+<meta name="robots" content="all">
+<meta name="revisit-after" content="30 days">
+<meta name="distribution" content="global">
+<meta name-equiv="content-language" content="se">
+<style type="text/css">
+<!--
+.brod {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 16px}
+.over_skrift {  font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold}
+-->
+</style>
+<script language="javascript">
+ 
+ if (screen) {
+  sw = screen.availWidth;
+  sh = screen.availHeight;
+ 
+  window.moveTo(0,0);
+  window.resizeTo(sw,sh);
+ }
+ 
+</Script>
+<script language="javascript">
+<!--
+
+function joanna(){
+	window.open("start.html","Joanna","fullscreen,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,copyhistory=no");
+}
+//-->
+</script>
+<script language="JavaScript1.2">
+<!--
+
+<!-- begin hiding
+// (C) 2000 Marcin P Wojtowicz [one_spook@hotmail.com]. All rights reserved.
+// Obtain permission before selling/redistributing in any medium.
+
+startingColor = new Array() // <-- Do not modify!
+endingColor = new Array() // <-- Do not modify!
+
+// YOU MAY MODIFY THE FOLLOWING:
+
+var yourImages = new Array("img/images/main_01.jpg","img/images/main_02.jpg","img/images/main_03.jpg","img/images/main_04.jpg","img/images/main_05.jpg","img/images/main_06.jpg")
+// Fill this array with the images you wish to preload
+var locationAfterPreload = "javascript:joanna()" // The script will redirect here when the preloading finishes *successfully*
+var preloadbarWidth = 200 // The length of the preload bar. Should be greater than total amount of images you want to preload!
+var preloadbarHeight = 1 // The height of the gradient/preload bar
+var backgroundOfGradient = "#ffffff" // Default color while the preload bar is "filling up"
+
+// Color the preloadbar is starting with - enter 1st, 3rd and 5th numbers/letters of color code
+startingColor[0] = "b"
+startingColor[1] = "9"
+startingColor[2] = "b"
+
+// Color the preloadbar is going to end up with - enter the 1st, 3rd and 5th numbers/letters of color code
+endingColor[0] = "b"
+endingColor[1] = "9"
+endingColor[2] = "b"
+
+// FOR TROUBLESHOOTING:
+var gap = 5 // PLAY AROUND WITH THIS SETTING IF YOU GET A JAVASCRIPT ERROR!!! 2 is the minumum value!!!
+
+
+// DO NOT MODIFY ANYTHING BEYOND THIS POINT!!!
+
+if (!document.all) location.replace(locationAfterPreload)
+var a = 10, b = 11, c = 12, d = 13, e = 14, f=15, i, j, ones = new Array(), sixteens = new Array(), diff = new Array();
+var convert = new Array("0","1","2","3","4","5","6","7","8","9","a","b","c","d","e","f"), imgLen = yourImages.length;
+var loaded = new Array(), preImages = new Array(), currCount = 0, pending = 0, h = 0, hilite = new Array(), cover = new Array();
+var num = Math.floor(preloadbarWidth/gap);
+for (i = 0; i < 3; i++) {
+	startingColor[i] = startingColor[i].toLowerCase();
+	endingColor[i] = endingColor[i].toLowerCase();
+	startingColor[i] = eval(startingColor[i]);
+	endingColor[i] = eval(endingColor[i]);
+	diff[i] = (endingColor[i]-startingColor[i])/num;
+	ones[i] = Math.floor(diff[i]);
+	sixteens[i] = Math.round((diff[i] - ones[i])*15);
+}
+endingColor[0] = 0;
+endingColor[1] = 0;
+endingColor[2] = 0;
+i = 0, j = 0;
+while (i <= num) {
+	hilite[i] = "#";
+	while (j < 3) {
+		hilite[i] += convert[startingColor[j]];
+		hilite[i] += convert[endingColor[j]];
+		startingColor[j] += ones[j];
+		endingColor[j] += sixteens[j];
+		if (endingColor[j] > 15) {
+			endingColor[j] -= 15;
+			startingColor[j]++;
+		}
+		j++;
+	}
+	j = 0;
+	i++;
+}
+function loadImages() {
+	for (i = 0; i < imgLen; i++) {
+		preImages[i] = new Image();
+		preImages[i].src = yourImages[i];
+		loaded[i] = 0;
+		cover[i] = Math.floor(num/imgLen)*(i+1)
+	}
+	cover[cover.length-1] += num%imgLen
+	checkLoad();
+}
+
+
+function wait(delay){
+        string="pauseforalert("+delay+");";
+        setTimeout(string,delay);
+}
+
+function checkLoad() {
+	if (pending) { changeto(); return }
+	if (currCount == imgLen) { location.replace(locationAfterPreload); return }
+	for (i = 0; i < imgLen; i++) {
+		if (!loaded[i] && preImages[i].complete) {
+			loaded[i] = 1; pending++; currCount++;
+			checkLoad();
+			return;
+		}
+	}
+	setTimeout("checkLoad()",10);
+}
+
+function changeto() {
+	if (h+1 > cover[currCount-1]) {
+		var percent = Math.round(100/imgLen)*currCount;
+		if (percent > 100) while (percent != 100) percent--;
+		if (currCount == imgLen && percent < 100) percent = 100;
+		defaultStatus = "Loaded " + currCount + " out of " + imgLen + " images [" + percent + "%].";
+		pending--;
+		checkLoad();
+		return;
+	}
+	eval("document.all.cell" + (h+1) + ".style.backgroundColor = hilite[h]");;
+	h++;
+	setTimeout("changeto()",1);
+}
+defaultStatus = "Loaded 0 out of " + imgLen + " images [0%]."
+// end hiding -->
+
+function MM_goToURL() { //v3.0
+  var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+  for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#FFFFFF" text="#333333" link="#333333" vlink="#333333" alink="#333333" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onBlur="MM_goToURL('parent','back.html');return document.MM_returnValue">
+<table width="332" border="0" cellspacing="0" cellpadding="0" align="center" height="100%">
+  <tr>
+    <td align="center" valign="middle">
+      <table width="332" border="0" cellspacing="6" cellpadding="0">
+        <tr> 
+          <td height="18"> 
+            <div align="center"> 
+              <script language="JavaScript1.2">
+<!-- beging hiding
+document.write('<table border="0" cellpadding="0" cellspacing="0" width="' + preloadbarWidth + '" class="border"><tr height="' + preloadbarHeight + '" bgcolor="' + backgroundOfGradient + '">');
+for (i = 0; i < num; i++) {
+	document.write('<td width="' + gap + '" id="cell' + (i+1) + '"></td>');
+}
+document.write('');
+document.write('')
+loadImages();
+// end hiding -->
+</script>
+            </div>
+          </td>
+        </tr>
+        <tr height="124" width="104" class="brod"> 
+              <TD><IMG SRC="img/gumma_anim_clean.gif" ALT="" WIDTH=104 HEIGHT=124 border="0"></a></TD>
+        </tr>
+
+        <tr> 
+          <td height="104" class="brod"> 
+
+            <div align="center">
+               Loading...
+           </div>
+          </td>
+
+        </tr>
+
+      </table>
+</td>
+  </tr>
+</table>
+</body>
+</html>

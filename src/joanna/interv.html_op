@@ -1,0 +1,992 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<!--Converted with LaTeX2HTML 2002-2-1 (1.70)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Interview in Bild &amp; Bubbla </TITLE>
+
+<style>
+<!--
+/* Century Schoolbook font is very similar to Computer Modern Math: cmmi */
+.MATH    { font-family: "Century Schoolbook", serif; }
+.MATH I  { font-family: "Century Schoolbook", serif; font-style: italic }
+.BOLDMATH { font-family: "Century Schoolbook", serif; font-weight: bold }
+
+/* implement both fixed-size and relative sizes */
+SMALL.XTINY		{ font-size : xx-small }
+SMALL.TINY		{ font-size : x-small  }
+SMALL.SCRIPTSIZE	{ font-size : smaller  }
+SMALL.FOOTNOTESIZE	{ font-size : small    }
+SMALL.SMALL		{  }
+BIG.LARGE		{  }
+BIG.XLARGE		{ font-size : large    }
+BIG.XXLARGE		{ font-size : x-large  }
+BIG.HUGE		{ font-size : larger   }
+BIG.XHUGE		{ font-size : xx-large }
+
+/* heading styles */
+H1		{  }
+H2		{  }
+H3		{  }
+H4		{  }
+H5		{  }
+
+/* mathematics styles */
+DIV.displaymath		{ }	/* math displays */
+TD.eqno			{ }	/* equation-number cells */
+
+
+/* document-specific styles come next */
+DIV.navigation		{   }
+SPAN.textbf		{ font-weight: bold  }
+SPAN.textit		{ font-style: italic  }
+//-->
+</style>
+
+
+<META NAME="description" CONTENT="int">
+<META NAME="keywords" CONTENT="int">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2002-2-1">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+</HEAD>
+
+<BODY >
+	<!--  Press -->
+
+
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times"><B>PRESS:</B></FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Tydlig
+pedagogik i klara färger – Recension av Nell i Svenska Dagbladet
+12 oktober 2009.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Uppsving
+för svensk animerad film – Om filmen Fröken Märkvärdig 6
+Karriären, SVT Rapport 20 oktober 2008</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">A
+most Remarkable Artist and Writer – Artikel i Stockholm News 16
+april 2008 (engelska)</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Fröken
+Livrädd är här – Artikel om utställningen på Kulturhuset i DN
+21 mars 2008.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Joanna
+Rubin Dranger livrädd på Sergels Torg – Artikel SR Kulturnytt 28
+februari 2008.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Fröken
+Livrädd på Sergels torg – Evenemang Kulturhuset, 2008.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Fröken
+Rubin ställer ut – Artikel om utställningen på Kulturhuset i
+alltomstockholm.se, 2008.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Urhunden
+2002, Joanna Rubin Dranger, Fröken Märkvärdig och Karriären –
+Seriefrämjandet. (engelska).</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Alltid
+redo att dö för mitt barn – Recension Sekventiellt.se 2 juli 2009
+(engelska)</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Joanna
+Rubin Dranger inspireras av hattifnattarna – Artikel i Svenska
+Dagbladet 18 juli 2008.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Fröken
+Livrädd fortplantar sig – Recension i Helsingborgs Dagblad 5 april
+2008.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Alltid
+Redo att dö för mitt barn – Recension i Expressen 4 april 2008.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Alltid
+redo att dö för mitt barn – Recension i Sydsvenskan 3 april 2008.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times"><B>INTERVJUER:</B></FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Joanna
+Rubin Dranger, bildberättare – Intervju i Fokus 5 september 2008.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Jag
+älskar att paddla kanot – Intervju i DN Bok 22 mars 2008.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Farväl
+illustration – Intervju i Cap &amp; Design 12 december 2007.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times"><B>RADIO/LJUD/FILM:</B></FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">SR
+– Tankar för dagen – Joanna Rubin Dranger SR 8 oktober 2009.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Sommar
+i P1 – Joanna Rubin Dranger – Joannas sommarpratarprogram 7
+augusti 2002.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Dagbok
+av John Rupert Triangel – bildnovell Myrios novellförlag.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Filmen
+Fröken märkvärdig &amp; Karriären
+http://frokenmarkvardigochkarriaren.se/</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times"><B>FÖRFATTARPRESENTATION:</B></FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Joanna
+Rubin Dranger – Författarpresentation Albert Bonniers förlag.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Joanna
+Rubin Dranger – Författarpresentation Rabén &amp; Sjögren.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Joanna
+Rubin Dranger – Författarpresentation Bonnier Group Agency</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times"><B>CITAT
+UR PRESSEN:</B></FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><B>Fröken
+Märkvärdig &amp; Karriären</B></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">Miss
+Remarkable is sure to find an audience among cynics and optimists
+nationwide. Joanna Rubin Dranger´s frank, witty text will hit a
+chord a minute with anyone who´s ever had a moment of self-doubt and
+her expressive, elastic visuals will make you feel like you´re
+watching an animated film rather than reading.”</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">Elle.com,
+USA</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”I´ll
+keep this book next to me and read it whenever I find myself
+annoying.”</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">Actress
+Naoko Ijima, Japan</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”Giv oss
+Joanna Rubin Dranger!”</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">Weekendavisen,
+Danmark</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”Ta en
+bit Woody Allen, krydda med lite Kristina Lugn och du får Joanna
+Rubin Dranger/…/En modern omistlig utvecklingsroman.” 
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">Femina</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”…en
+genialiskt tecknad, underbart rolig men också mycket svart historia
+om en ung kvinna desperat på väg någonstans i karriären.”</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">Ulrika
+Knutson, MånadsJournalen</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”Fröken
+Märkvärdig, jag gillar dig, du är duktig, du är rolig, du är
+begåvad.”</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">Linda
+Skugge, Expressen</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”Det är
+inkännande och kärleksfulla porträtt men samtidigt iskallt
+avslöjande karikatyrer av dagens unga medelklasskvinnor med
+intellektuella ambitioner.”</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">Aftonbladet</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><B>Fröken
+Livrädd &amp; Kärleken</B></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”Dranger
+drar den eviga historien som turnerats tusentals gånger i popsånger,
+kärleksnoveller och tvåloperor, men hon gör det med precision och
+så stora portioner charm att den åter blir angelägen.”</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">Stefan
+Helgesson, Dagens Nyheter</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”En av
+de roligaste och mest rörande böcker jag har läst på länge/…/samt
+snudd på genialiskt beskriven i såväl text som bild av
+författarinnan.”</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">Gabriella
+Ahlström, Damernas Värld</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”Om en
+bild kan säga mer än tusen ord så kan Joanna Rubin drangers Fröken
+Livrädd &amp; Kärleken innhålla dubbelt så mycket som en vanlig
+kärleksroman.”</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">Pia
+Bergström-Edwards, Aftonbladet</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><B>Alltid
+redo att dö för mitt barn</B></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”…en
+bekännelse om den vanvettiga kärleken till det älskade barnet och
+en sanslöst rolig uppgörelse med föräldraskapsmyter,
+könsrollsclichéer och omvärldsförväntningar.”</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">SvD</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”Många
+mammor har de senaste åren försökt beskriva det samtida
+moderskapet, ingen har gjort det lika bra som Joanna Rubin Dranger.”</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">GT</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”Feelbad
+är den dominerande litterära tendensen. Tänk Maria Svelands
+Bitterfittan, tänk Maja Lundgrens Myggor och tigrar, tänk Hans
+Koppels Vi i villa. Strängt taget är det bara Joanna Rubin Dranger
+som sviker, genom att spetsa sin hälsosamt klara svartsyn med så
+mycket humor att man som läsare – varning igen! – skrattar högt
+på varje sida..” 
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">Expressen</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”Den
+svarta humorn är extremt befriande, det är skönt att läsa en så
+utelämnande och subjektiv framställning av moderskapet.”</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">DN</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”Sällan
+har jag läst en lika träffsäker beskrivning av föräldraskapet…lägg
+därtill till en suverän, skarpsynt analys av dagens könsroller.”</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">Aftonbladet</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”Joanna
+Rubin Dranger tecknar med det svartaste bläck och har en osviklig
+förmåga att vart hon än vänder sig fånga upp klyshor och
+dubbelmoral i satirens skrattspegel – såväl i sitt eget beteende
+som i andras.”</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">Helsingborgs
+Dagblad</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”Nu har
+Rubin Dranger gett sig på att skildra föräldraskapet, och även
+det görs med empati, intelligens och en stor portion humor.”</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">Sydsvenskan</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><B>Askungens
+syster &amp; andra sedelärande berättelser</B></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”Det är
+satir på hög nivå.”</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">GP</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”Ett
+oroligt roligt sätt att skratta åt sig själv på - En bok jag
+redan läst om och om igen.” Dagens Nyheter</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”Du är
+ett stort geni, Joanna!”</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">Linda
+Skugge, Expressen</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><B>Utställningen
+Fröken Livrädd på Sergelstorg</B></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT COLOR="#000000">”<FONT FACE="Times">Joanna
+Rubin Dranger är tillbaka med sin geniala Fröken Livrädd./…/ </FONT></FONT><FONT COLOR="#000000"><FONT FACE="Times">Med
+heldragna tuschlinjer, </FONT></FONT><FONT COLOR="#000000"><FONT FACE="Times">–</FONT></FONT><FONT COLOR="#000000"><FONT FACE="Times">sotiga
+ångestmoln och lakoniska pratbubblor tecknade Joanna </FONT></FONT><FONT COLOR="#000000"><FONT FACE="Times">–</FONT></FONT><FONT COLOR="#000000"><FONT FACE="Times">Rubin
+Dranger en romangestalt som är människans alla åldrar, alla
+frågor, alla motsatser. Fröken Livrädd står med det ena vacklande
+benet i konsten hos Frida Kahlo, med det andra i serien och sagan hos
+Tove Jansson - och med örat mot Kristina Lugn i litteraturen.”</FONT></FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">DN</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”<FONT FACE="Times">Jag
+kan inte komma på någon svensk som så precist fångat en tidsanda,
+som Joanna Rubin Dranger./…/ Med sina eleganta och expressiva
+bilder sammanfattar hon urbana neuroser, gör dom så stora och
+samtidigt futtiga som de blir i ens hjärna, där man går runt och
+tänker på sig själv och sig själv.”</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Karin
+Magnusson SR</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times"><B>Fittflickan</B></FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”<FONT FACE="Times">Vi
+foten av sin skulptur utnämner Fittflickan sig själv till maskerad
+konstkritiker och utser sitt verk till en konsthistorisk brytpunkt.
+/…/Men Fittflickan blir aldrig svartvit. I Joanna Rubin Drangers
+serie är varje ruta ett eget stilistiskt konstverk, en virvlande
+rymd som ekar av konstnärer som Joan Miró, Frida Kahlo och Anna
+Höglund.”</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Bang</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT COLOR="#000000"><FONT FACE="Times">T</FONT></FONT><FONT COLOR="#000000"><FONT FACE="Times"><B>idskriften
+SLUT</B></FONT></FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in; widows: 0; orphans: 0">
+<FONT FACE="Times">Skribenterna i Slut uppfinner nya sätt att skriva
+in det egna jaget och nationen i världen. Bakom signaturerna Polite,
+Adjam, Mohtadi, Dahl, Chatty, Gavanas, Dranger, Thor, Kawesa,
+Mulinari, Kalonaityte, Tedros, Sawyer, Brännström, Bredström och
+Kehmiri döljer sig något mirakulöst. Ett Sverige som äntligen
+vågar säga upp kontraktet med sitt etniska ursprung.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in; widows: 0; orphans: 0">
+<FONT FACE="Times">Stefan Jonsson, DN</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in; widows: 0; orphans: 0">
+<BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><B>Nell</B></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”Frågan
+är om jag någonsin tidigare läst en bok som på ett mer lustfyllt
+sätt lär ett litet barn hur man räknar till tio.” 
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">Aftonbladet    </P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”När
+Joanna Rubin Dranger för första gången skapar småbarnsböcker
+står den renodlade glädjen i fokus. /…/Bakom detta finns en
+outtalad genus- och normproblematik manifesterad dels i bokseriens
+skildring av föräldrar av olika etnicitet och nationalitet, dels
+genom en medvetenhet om vår tids debatt om pojkars och flickors
+lekar.” 
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">SvD</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times"><B>Glad!</B></FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times"><B>Sprudlande
+glädje på boksidorna</B></FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Författaren
+och konstnären Joanna Rubin Dranger är ovanligt skicklig på att
+undersöka och gestalta känslospel i bild. Hennes skildringar är
+mångbottnade och öppna, och förmår ge olika läsare olika
+upplevelser beroende på förhållandet till de egna känslorna.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Svd
+2007</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times"><B>Känslor
+så det stänker. Glädjen är ett litet gult barn med öppet leende.</B></FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Joanna
+Rubin Dranagerr målar känslor så att det stänker. I sin senaste
+bilderbok gestaltar hon glädjen som ett gult barn,  en liten sol med
+runda strålar och öppet leende.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">DN
+2007</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times"><B>Arg!</B></FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Det
+röda barnet strålar av ursinne. Det är två tjugo år gamla
+författare som gör sin debut. Teckningarna är uttrycksfulla och
+roliga. ”Ibland blir man arg som en varg” står det i fet text –
+man ser den ursinniga flickvarelsen stå där med vargtassar.</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">DN
+1991</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times"><B>Ledsen</B></FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”<FONT FACE="Times">Med
+vackra och välgjorda collageillustrationer och ett effektfullt
+utnyttjande av skilda stilstorlekar tolkar Anna Karin Cullberg och
+Joanna Rubin Dranger en liten flickas starka känslor. Med ett fåtal
+detlajer mot vita bakgrunder fokuseras konsekvent flickans
+sinnesstämmning. Ledsen är en härlig bok att läsa högt.”</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">DN
+1993</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”<FONT FACE="Times">Lyhörd
+tolkning av barnets känslor.”</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">SvD
+2006</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times"><B>Drömlund</B></FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">&quot;An
+early Easter this year could mean unsettled weather during the school
+holidays. But children will find there is plenty of bright adventure
+and laughs in the following indoor amusements. Dudley the Daydreamer
+has a boring job (drawn in black and white), which he loses because
+he daydreams all day (in colour) about exploring, going to the moon,
+riding elephants and winning the World Cup. Then he finds a dream job
+instead. Anders Brundin's celebration of the imagination (Winged
+Chariot Press £8), illustrated with bright patterns, flat colours
+and definite lines by Joanna Rubin Dranger, is for 3-6s and the young
+at heart.&quot;</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">The
+Sunday Times (2008)</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times"><B>Johannabarnet</B></FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in">”<FONT FACE="Times">Joanna
+Rubin Drangers bilder är ett veritabelt fyrverkeri som rinner ut
+över hela sidorna…”</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><FONT FACE="Times">Sydsvenska
+Dagbladet 2003</FONT></P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in; widows: 0; orphans: 0">
+<BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in; widows: 0; orphans: 0">
+<BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in; widows: 0; orphans: 0">
+<BR>
+</P>
+<P LANG="sv-SE" CLASS="western" STYLE="margin-bottom: 0in"><BR>
+</P>
+
+	<!-- End Press -->
+
+
+<P>
+<SPAN >Interview by Fredrik Str&#246;mberg.
+<BR>
+Published in the Swedish periodical Bild &amp; Bubbla 2001
+(Picture&amp;Bubble)</SPAN>
+
+<P>
+<SPAN  CLASS="textbf"><BIG CLASS="XXLARGE">Love and Career - a chat with JRD</BIG></SPAN>
+
+<P>
+<SPAN  CLASS="textit">She came from nowhere, or so it seemed, and she created one 
+of the 90's biggest graphic novel successes; Miss Scardy 
+Cat &amp; Love. She came from another direction than most 
+createurs, and therefore she chose a new form and a new kind 
+of storytelling. The result didn't fail her. The book stayed 
+on the booksellers' top-ten lists for an eternity and reached 
+a lot of people who wouldn't ordinarily read this genre. The 
+follow-up Miss Remarkable and her Career has 
+arrived and Bild&amp;Bubbla has knocked on Joannas 
+door for an audience with the Swedish graphic novel's uncrowned 
+queen.</SPAN>
+
+<P>
+<SPAN  CLASS="textbf">-When was the idea to Miss Scardy-Cat born?</SPAN>
+
+<P>
+-The plot in Miss Scardy-Cat &amp; Love was actually 
+born more than five years before the book was published. After 
+I had quit Konstfack (School of Fine Arts) I felt a deep urge 
+to write. I bought a lap-top and for a couple of months I tried 
+to find a direction and a language for my writing. On the one 
+hand I remember this period as if driven by an extraordinary 
+force, a kind of creative electricity, on the other hand I had 
+the feeling that the whole idea of me writing was totally insane.
+<BR>
+I had no experience of writing whatsoever. There are so many 
+people dreaming about becoming writers and I hadn't even done 
+any writing for my closet. And my writing didn't really come 
+out very well. I couldn't make it work. When I got a summer job 
+for the tabloid Expressen, I felt a kind of relief, 
+since I let myself off the hook. The job at Expressen 
+turned out to be a surprisingly useful experience. I stayed there 
+for almost a year.
+<BR>
+Even when I became a full-time freelance illustrator the dream 
+and the urge to write was still there. I hate clich&#233;s about 
+artistry but I actually do think that my writing, or rather my 
+storytelling, was more of a necessity than a choice.
+
+<P>
+<SPAN  CLASS="textbf">-Okay. But how come you chose the form of the graphic novel, 
+to tell your story?</SPAN>
+
+<P>
+-I had still kept the dream to write this novel in the back of 
+my head. One morning when I was on my way to my studio, I suddenly 
+got the idea that I could draw the novel instead of writing it. 
+What I saw before me in that moment was a kind of translation 
+of prose into pictures. I really thought it a brilliant idea, 
+since it seemed totally original and new to me. I went to my 
+studio and started working with it right away and I immediately 
+felt that it could work. It was so inspiring! Later I learned 
+that the genre graphic novel is well-known in 
+the USA, and that Will Eisner coined it in the seventies. So, 
+the phrase graphic novel wasn't new at all, as 
+I had believed. But that wasn't important, the important thing 
+was that I had found a language, a form, that suited me so well. 
+However, I do think that my books created <SPAN  CLASS="textit">something</SPAN> new, 
+even if this new thing about them was only to evolve a small 
+part of an already existing form.
+
+<P>
+<SPAN  CLASS="textbf">-Yes, when I read your first book, I immediately felt that 
+you managed to create something unique, and I have read quite 
+a lot over the years. But this issue regarding the graphic 
+novel; when you created Miss Scardy-Cat 
+weren't you aware of the longer, more serious graphic novels 
+that had already been published during the last two decades?</SPAN>
+
+<P>
+-No, I wasn't. On the cover of Miss Scardy-Cat &amp; Love 
+I wrote  A graphic novel, as a kind of description 
+of the form. I chose to subtitle the book in this way since my 
+primus motor was the very idea of translating a novel into pictures 
+- to do a graphic novel. Nevertheless, I still 
+think it a good description since the term isn't loaded 
+in the way the word cartoon or comics 
+is, at least not here in Sweden.
+
+<P>
+<SPAN  CLASS="textbf">-No, that is probably true. You also chose a rather odd format 
+for your book; square, with one picture on each page. It felt 
+like a fresh breeze, as I see so many createurs working in the 
+same format as everybody else, without even questioning it. How 
+did you come up with that idea?</SPAN>
+
+<P>
+-I think that all pictures become a lot better - more interesting 
+- when they are given more space. Pictures that are blown up 
+over a whole newspaper page become very effective. Hence, the 
+exact same picture can be totally harmless and uninteresting 
+when its scaled down to a small size. That is why the H&amp;Ms lingerie 
+ads are as horrible as they are effective.  
+<BR>
+Using one picture on each page in my books, gives the pictures 
+a fair chance to play an important role in the story, they are 
+given their own value. But this isn't anything that makes me 
+unique. Both Tove Jansson and Anna H&#246;glund have been doing 
+picture-books for adults inspired by children's books' format 
+- one picture per page. Anna H&#246;glund's Cyborgs' Curse 
+(Syborgs f&#246;rbannelse) has been a very important 
+book for me and Tove Jansson is an easy-to-read role model for 
+my books, especially thematically and psychologically. Her stories 
+revolve around wide spaces of darkness and dangers 
+but they always have a safety anchor to supply hope. But to get 
+back to your question; what I regard as new with my books is 
+that I use this format in combination with the length of the 
+stories. That creates a slower tempo, which suits me well.
+
+<P>
+<SPAN  CLASS="textbf">-Yes, I can imagine that. What has the form meant for your 
+storytelling?</SPAN>
+
+<P>
+-Text and pictures in symbiosis feel like my backyard 
+now, which I am very grateful to have found. There was a time 
+when I didn't have a clue what to do with my disparate wishes 
+- on the one hand to write - on the other to draw. Hopefully, 
+I can evolve from this backyard and find new adventures. Work 
+with other forms of storytelling in the future. That is something 
+I am really keen on.
+
+<P>
+<SPAN  CLASS="textbf">-Somewhere you've said that you don't like the ordinary format 
+of graphic novels, and comic books, with a lot of pictures on 
+the same page, since you can't avoid looking ahead.</SPAN>
+
+<P>
+-Yes, that is true, but I want to take the opportunity to point 
+out that I really do like to read a lot of mainstream comics 
+too, but that I wouldn't like to work that way myself. When I 
+was in my country house the other day I read all my old Tintin-albums, 
+and yes, I couldn't help glancing ahead...
+
+<P>
+<SPAN  CLASS="textbf">-I have to admit that after reading Miss Scardy Cat 
+and after noticing how successful it became I thought that other 
+Swedish createurs would use your format and that we would be 
+able to enjoy a whole bunch of Swedish graphic novels, 
+but there hasn't even been one. Why do you think that is?</SPAN>
+
+<P>
+-No idea. But it is a time-consuming format to work with, so 
+maybe they just haven't been ready to publish anything yet. The 
+other day I saw an ad for a Children's Books competition where 
+they wanted a manuscript that could be in the form of a comic 
+as well. That's great. I haven't seen that before.
+
+<P>
+<SPAN  CLASS="textbf">-Is there anyone in particular that you would like to see 
+create a graphic novel?</SPAN>
+
+<P>
+-...Eh...no. I have never even thought of that. There are people 
+whom I admire for their way of telling a story, though. One of 
+those are Pytte Ravn who makes the Children's TV show Anki 
+at SvT. She is extraordinary when it comes to storytelling.
+
+<P>
+<SPAN  CLASS="textbf">-Let's talk about storytelling, how do you work when you 
+create these long stories? Do you write manuscripts first, do 
+you plan the lengths of the stories, do you sketch a lot or do 
+you just work from the first page to the end of the book?</SPAN>
+
+<P>
+-When I started to work with Miss Scardy-Cat 
+I had my unfinished novel, the one I had written years earlier, 
+to work from. Therefore I had a rather strong idea of how the 
+story would evolve, even if that sounds a lot more structured 
+and easy than it really was. The work with Miss Remarkable 
+&amp; her Career was almost absurd in its complexity. I 
+didn't have any story at all; I hadn't even a thread to follow. 
+I only had the subject; work, performance-anxiety, human value. 
+I just started, did sketches and made a lot of notes of thoughts 
+that I had about these issues. I collected everything I could 
+think of that related to it; newspaper articles, quotations from 
+books, radio and television. I wrote down stories that people 
+told me and I did many more or less independent scenes for the 
+book. During one period of time I had more than 800 pages in 
+my Miss Remarkable-portfolio on my computer. 
+At times it was really chaotic. The story came together very 
+late in the process.
+
+<P>
+<SPAN  CLASS="textbf">-A really exciting way of working and probably rather unusual 
+in this field. The American James Kochalka, whom I interviewed 
+in the first issue, has a similar way of working. If you think 
+about it, the themes you bring up in you books aren't easy. Both 
+books feel like a kind of developing novels in which the main 
+character goes through a series of problems which form the individual 
+and her identity. Is that a kind of basic idea in your books?</SPAN>
+
+<P>
+-I've always liked books that give the reader some kind of hope, 
+a reconciliation. I don't mind darkness, anxiety and irony, but 
+I want something else too. It's a difficult balance. When I tried 
+to write my novel, I think one of my main problems was that I 
+didn't have any solutions to the issues I wrote about. I think 
+that had to do with my lack of trust.
+
+<P>
+<SPAN  CLASS="textbf">-You seem to have an ambivalent attitude towards love. I 
+can, even as a man, with no doubt, recognize myself in the feelings 
+that your main-character goes through in your first book. Have 
+you noticed any differences in the reaction of male or female 
+readers?</SPAN>
+
+<P>
+-By the reactions on Miss Scardy-Cat I understood 
+that some female readers <SPAN  CLASS="textit">think</SPAN> that men don't have these 
+kind of feelings. As if females would have some sort of patent 
+on feelings of insecurity, fear, loneliness, crushes and love, 
+well, I guess all feelings. If that were true it would be very 
+sad. Luckily I didn't get that impression by the reactions of 
+the male readers - on the contrary, they seemed to identify with 
+Miss Scardy-Cat in a rather unproblematic way. Maybe without 
+regarding her sex as an obstacle to the same degree.
+
+<P>
+<SPAN  CLASS="textbf">-That's how it was for me, no doubt. OK, and now over to 
+the obligatory question; you've said in an interview that your 
+books are, one third autobiographical, one third inspired by 
+things you've read or heard and one third made up. Is that so, 
+and if it is, how did you use your own experiences in your books?</SPAN>
+
+<P>
+-Yes, I do think that's a possible answer. When one talks about 
+autobiographies one should keep in mind that the word autobiography 
+is a kind of promise. A promise that you actually are telling 
+the truth. The truth about yourself and your own and other people's 
+lives. As if you are telling it exactly as it really was, or 
+is. I don't have that ambition, actually it doesn't interest 
+me at all. What does interest me is to try to capture the diffuse 
+and unclear pictures of what's going on inside and around us 
+all, and to try to make new pictures that make it clear and comprehensible. 
+I exaggerate, if not only to show a point. I do hope that that 
+is what I do, I mean that I succeed in that ambition. I use this 
+almost surreal subjective perspective because the caricature 
+makes some things clearer. The main characters are the only ones 
+in the books whom it is possible to identify with, they are the 
+ones who feel like a three-dimensional person. The other ones 
+are as flat as paper-dolls. Clich&#233;s. It can feel that way to 
+exist. I don't mean that's how it is, I only mean that one <SPAN  CLASS="textit">can</SPAN> 
+feel that way.
+
+<P>
+<SPAN  CLASS="textbf">-Your publisher chose to not mention the word comics 
+in the publicity of your books, but you don't seem to be afraid 
+of the fact that you are a part of the comics media. How do you 
+regard your own work, is it comics or not?</SPAN>
+
+<P>
+<SPAN  >-Oops. It wasn't ever about what Bonnier Publishers or I 
+chose to say, or not say. I do regard my books as a cross between 
+comics, children's books for adults and novels. Therefore, I 
+also regard the term graphic novel as a good 
+description, even though I know that it was an eyesore for some 
+people in the comics media in Sweden. As I look at it, I wasn't 
+distancing myself <i>from</i>  the comics as much as I was attempting 
+to explain an affiliation <i>with something else</i>.</SPAN>
+
+<P>
+<SPAN  CLASS="textbf">-I guess I have to admit that I was one of those who didn't 
+like the term. A graphic short story could perhaps 
+have been more suitable. But since I really liked the book that 
+wasn't a big issue. By the way, do you read comics yourself?</SPAN>
+
+<P>
+-I like to read mainstream comics like Tintin. 
+My friend Alexander Skantze, a writer who is very interested 
+in comics and graphic novels, gave me the album Ghost 
+world, which I really liked. I have also read Debbie 
+Dreschler who has written/drawn very strong stories. However, 
+Maus is overwhelming, in a different way. Especially 
+the technique in Maus II, where Art Spiegelman not only tells 
+us the story about his father's current heart-problems and his 
+experiences of the concentration-camps in the past, he also tell 
+us the story about himself writing the book and what problems 
+the writing of it creates.
+
+<P>
+<SPAN  CLASS="textbf">-Yes, but it seems to me that you read many of the really 
+important artists. To go back to your own work; your pictures 
+are so wonderfully straggling and expressive. Did you have any 
+role-model who inspired you when you started working with Miss 
+Scardy-Cat?</SPAN>
+
+<P>
+-The way I graphically visualize strong feelings and their nuances 
+- is the one thing I haven't thought about that much, that part 
+of the process comes easy to me. Since it doesn't take that much 
+effort I guess I haven't reflected much on that very part of 
+my work.
+
+<P>
+<SPAN  CLASS="textbf">-What I find most fascinating with your books is the way 
+you visualize emotions. How did that develop?</SPAN>
+
+<P>
+-I often feel like a total stranger towards my own and other 
+people's feelings and I guess that is why I find feelings so 
+extremely interesting. It is a big challenge for me to try to 
+understand, explain and dig deeply into these mysterious issues. 
+It was also interesting when I realized that the books Anna Karin 
+Cullberg and I made ten years ago are so very much like the books 
+I do today.
+
+<P>
+<b>-OK, sometimes one shouldn't analyze good things to much. But 
+Miss Scardy-Cat was a success, how many copies did it sell?</b>
+
+<P>
+-So far each book sold about 50.000 copies in Sweden. They've 
+been translated into Norwegian, German and Finnish, but I don't 
+know how many copies or editions there have been in each country. 
+Albert Bonnier Publishers and I made an English translation and 
+even if the chances are very small, I do hope that some English 
+speaking country will be interested. I know that at least one 
+American publisher is looking at the books right now.
+<BR><SPAN  CLASS="textit">(After this interview was published the book Miss 
+Remarkable &amp; her Career was translated into English by Penguin 
+books and into Japanese by Wani books Co.)</SPAN>
+
+<P>
+<SPAN  CLASS="textbf">-Your books should be easy to launch in America since your 
+format and your subjects agrees with the trends in the USA right 
+now. What have the reactions on your books been? Is there <SPAN  CLASS="textit">anyone</SPAN></SPAN> 
+<SPAN  CLASS="textbf">who's been negative?</SPAN>
+
+<P>
+<SPAN>-When Miss Scardy-Cat &amp; Love was published 
+I had a lot of fine, rave reviews and one really bad review. 
+That one hurt me a lot, but it was an important experience. Miss 
+Remarkable &amp; her Career got a lot of overwhelming reviews 
+- which of-course made me very happy - and I don't think anyone 
+has been critical. It seems as if a lot of people understand 
+what I want to achieve with this book.</SPAN>
+
+<P>
+<SPAN  CLASS="textbf">-Did you feel any performance anxiety after the success of 
+your first book?</SPAN>
+
+<P>
+-Performance anxiety doesn't work that way with me. I would have 
+felt it, if no one had thought me capable of anything, but I 
+don't feel it from expectations. On the contrary, I like expectations.
+
+<P>
+-<SPAN  CLASS="textbf">Then I guess I have to admit that I expect grand things 
+from you in the future...(laugh). I like book number two better 
+(Miss Remarkable &amp; her Career). It felt as if you were more 
+thought-out, when it came to graphics. You seemed more relaxed 
+with the form and how it worked.</SPAN>
+
+<P>
+-Yes, but Hello!...the first book was my first book, so everything 
+was new to me. The format, to tell a story, the whole way of 
+working. But I am glad you like the new one since I worked so 
+much with it.
+
+<P>
+<SPAN  CLASS="textbf">-Yes, that was exactly what I meant, it is obvious that you 
+learned a lot while creating the first book. The main character 
+in the new book is quite similar to the main character in the 
+first book, but am I right if I say they are not the same person? 
+Why did you choose to change the main character?</SPAN>
+
+<P>
+-I thought a lot about different alternatives. For a while I 
+even experimented with the idea of changing the main character's 
+sex, but I gave up on that idea since I wanted to make a feminist 
+statement. It isn't clear whether the main characters in the 
+books are the same or not. Maybe it isn't important.
+
+<P>
+<SPAN  CLASS="textbf">-Why did you chose to make your second book about career?</SPAN>
+
+<P>
+-Career, work, performance anxiety and human value are issues 
+that I have thought about for many years. When I worked with 
+Miss Scardy-Cat &amp; Love I already knew that I 
+wanted to do this other book. The obsession to become Someone 
+by becoming something career-wise, the urge to be successful, 
+our contempt for weakness... In Miss Scardy-Cat &amp; Love 
+I made the choice of not bringing up the subject of career or 
+work, at all. A person's job and career are so important in our 
+society, that it isn't enough just to mention the subject in 
+passing. If we get to know someone's profession then we immediately 
+create such a strong picture of that person. Of course, that 
+works the same way with made up characters. It would have been 
+a different story if the reader was told that Miss Scardy-Cat, 
+for example, was a sales-woman.
+
+<P>
+<SPAN  CLASS="textbf">-No, I agree that we are obsessed with career in our society. 
+That makes it difficult when people ask me what I am doing... 
+I always ask them How long do you have? (laugh). 
+In the book you mediate a rather negative picture of the ego-society 
+where success is regarded as the same thing as happiness. Is 
+it perhaps more Joanna's ideas, than her own life, that we can 
+read out of the book?</SPAN>
+
+<P>
+-I'm not sure that I understand your question. However, you have 
+to identify with the subject you write about, whatever it may 
+be about. I think that the fact that I am a part of the very 
+same society and have the same values that I am criticizing isn't 
+a contradiction, rather a necessity.
+
+<P>
+<SPAN  CLASS="textbf">-What I meant was that the main characters in your books 
+obviously aren't copies of yourself, but one can probably understand 
+a lot about who you are by reading your books. </SPAN>
+<BR><SPAN  CLASS="textbf">-I like the fact that you don't present an easy solution 
+to the problems that the main character is struggling with. While 
+reading your book I feared an obvious solution 
+ending, inspired by New-Age or Managment-litterature.</SPAN>
+
+<P>
+-I worked for a long time with the ending. To find a balance 
+in the end of the story was probably the most difficult part 
+of the whole book. Both my books have the characteristics of 
+developing novels. Hence, there is a huge risk that the endings 
+turn out as messy smorgasbords of easy-peasy solutions to deep 
+existential problems. As if the books were some kind of this-is-the-right-way-to-live-and-feel-and-think-and-do-keys.
+
+<P>
+<SPAN  CLASS="textbf">-Yes, that is something one has seen too many times already. 
+
+<BR>
+You were an illustrator initially, what kind of education do 
+you have? </SPAN>
+
+<P>
+-I went to Nyckelvikskolan and to Konstfack (School of Fine Arts). 
+To do illustrations or to tell a story in pictures are two very 
+different ways of working. As I see it, it is almost two different 
+jobs. When I do an illustration, I work with ideas, form, color 
+and decoration. In my graphic novels the pictures have to work 
+in a very different way. Since it would be far too expensive 
+to use color, the pictures in my books are black and white. More 
+importantly, the pictures must propel the story and blend with 
+the words and the dialogue, the feelings and the atmosphere.
+
+<P>
+<SPAN  CLASS="textbf">-When I wanted you to do a picture for the front-page of 
+this issue of Bild&amp;bubbla you asked if you could 
+do the whole front-page with the logotype and everything. I guess 
+that you also design your own books?</SPAN>
+
+<P>
+-Yes, I do.
+
+<P>
+<SPAN  CLASS="textbf">-Then I must compliment you on having created two very good-looking 
+books. They felt solid the minute I got them in my hand.</SPAN>
+
+<P>
+-Thanks. Since I sometimes design book covers for other writers, 
+it seemed natural to do my own covers too.
+
+<P>
+<SPAN  CLASS="textbf">-Sure, the design and the cover of a book add a lot to the 
+reading of the book, or at least that is how it works for me. 
+Both your Miss-books had that plus. Your pictures 
+are also on stamps now. That must have been an interesting experience.</SPAN>
+
+<P>
+-Yeah, that was real fun. When the Nobel Prize Stamps were released 
+in Belgium I went to Brussels with the world-famous, ninety-year 
+old engraver Cecslav Slania. We were guests at a huge Stamp Exhibition 
+and there were crowds of people standing in winding lines to 
+have their stamps signed by Cecslav. He was the king!
+
+<P>
+<SPAN  CLASS="textbf">-You started your career by doing children's books with your 
+friend Anna-Karin Cullberg. How did that happen?</SPAN>
+
+<P>
+-Anna-Karin and I were in the same class in high school and we 
+did a lot of schoolwork together, for example a paper about Existentialism. 
+We really had fun doing it. After graduating from High School 
+I went to Art School, Basis, and Anna-Karin started to work in 
+a hospital. At the Art School I saw a poster about a Children's 
+Books Competition. I talked to Anna-Karin about it and we decided 
+to do something together. We got together in a pizza restaurant 
+a couple of days before the deadline for the competition. In 
+the pizzeria we wrote our first children's book, it only took 
+a couple of hours. We called it Angry. The angriest book 
+of the nineties.. We sent the manuscript and all the 
+pictures, which we had made the same evening, by mail to the 
+Publisher. We won the competition, which meant we got some prize 
+money and that our book was published. That was so cool! It has 
+never been that easy to write a book since.
+
+<P>
+<SPAN  CLASS="textbf">-Will there be any more Miss books, or do 
+you have other plans?</SPAN>
+
+<P>
+-There will absolutely be new books, but I don't know what 
+kind of books they will be. Right now I am working with the illustrations 
+for a children's book written by another writer. It is very enjoyable 
+since I really love the story. I will definitely create new books 
+of my own in the future. I have some ideas, but nothing I want 
+to talk about right now...
+
+<P>
+
+
+<P>
+</BODY>
+</HTML>
