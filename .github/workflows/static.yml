@@ -36,8 +36,10 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
+          # Upload the root directory
           path: '.'
+          # Optional: Enable artifact compression (default: true)
+          artifact-name: "github-pages"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v3
