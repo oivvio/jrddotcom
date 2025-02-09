@@ -28,9 +28,36 @@ function MM_swapImage() { //v3.0
 }
 //-->
 </script>
+<script>
+  function setInitialImage() {
+      // Get the image number from URL parameter, e.g. ?image=15
+      const urlParams = new URLSearchParams(window.location.search);
+      const imageNum = urlParams.get('image');
+      console.log("imageNum", imageNum);
+      
+      // If we have a valid image number
+      if (imageNum) {
+          // Pad single digits with leading zero
+          const paddedNum = imageNum.padStart(2, '0');
+          // Set the iframe source to the corresponding HTML file
+          const iframe = document.getElementsByName('stamp')[0];
+          if (iframe) {
+              iframe.src = paddedNum + '.html';
+          }
+      }
+  }
+  
+  window.onload = function() {
+    
+    console.log("will this run");
+    MM_preloadImages('img/right_02.gif','../joanna/img/close_humla_x.gif')
+    setInitialImage();
+  }
+  
+  </script>
 </head>
 
-<body bgcolor="#FFFFFF" text="#333333" link="#333333" vlink="#333333" alink="#333333" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('img/right_02.gif','../joanna/img/close_humla_x.gif')">
+<body bgcolor="#FFFFFF" text="#333333" link="#333333" vlink="#333333" alink="#333333" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" >
 <table width="503" border="0" cellspacing="0" cellpadding="0" align="center" height="100%">
   <tr>
     <td valign="middle" align="center"> 
